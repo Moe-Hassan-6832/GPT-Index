@@ -12,7 +12,7 @@ from gpt_index import (
 from langchain import OpenAI
 
 # Enter your API Key Here:
-API_KEY = "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"
+API_KEY = ""
 os.environ["OPENAI_API_KEY"] = API_KEY
 
 # Enter where your data is Here:
